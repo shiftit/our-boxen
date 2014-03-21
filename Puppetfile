@@ -89,7 +89,7 @@ github "eclipse",	"2.3.0"
 github	"flux",		"1.0.1"
 github	"slate",	"1.0.0"
 github 	"adium",	"1.3.0"
-github	"alfred",	"1.1.7"
+#github	"alfred",	"1.1.7" ## offending package not working - crashes boxen
 github  "evernote",	"2.0.5"
 github 	"skitch",	"1.0.2"
 github 	"toggl",	"1.0.4"
