@@ -86,6 +86,8 @@ github "heroku",	"2.0.0"
 github "java",		"1.4.0"
 github "eclipse",	"2.3.0"
 
+github "postgresapp", 	"1.0.0"
+
 github	"flux",		"1.0.1"
 github	"slate",	"1.0.0"
 github 	"adium",	"1.3.0"

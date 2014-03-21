@@ -111,5 +111,6 @@ node default {
   include heroku
 
   include java  	  
-  
+
+  include postgresapp
 }
