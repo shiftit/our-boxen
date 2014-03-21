@@ -56,6 +56,11 @@ github "xquartz",     "1.1.1"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 
+# dependencies
+github "osx",		"2.2.2"
+github "boxen",		"3.4.2"
+
+# modules
 github "emacs",		"1.1.0"
 github "iterm2",	"1.0.4"
 github "zsh",		"1.0.0"
