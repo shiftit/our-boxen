@@ -38,7 +38,6 @@ github "dnsmasq",     "1.0.1"
 github "foreman",     "1.1.0"
 github "gcc",         "2.0.1"
 github "git",         "1.3.7"
-github "go",          "1.1.0"
 github "homebrew",    "1.6.0"
 github "hub",         "1.3.0"
 github "inifile",     "1.0.1", :repo => "puppetlabs/puppetlabs-inifile"
@@ -56,3 +55,37 @@ github "xquartz",     "1.1.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "emacs",		"1.1.0"
+github "iterm2",	"1.0.4"
+github "zsh",		"1.0.0"
+
+github "virtualbox", 	"1.0.11"
+github "vagrant",	"3.0.6"
+
+github "chrome",	"1.1.2"
+github "firefox",	"1.1.8"
+
+github "skype",		"1.0.8"
+github "hipchat",	"1.1.0"
+github "screenhero",	"1.0.1"
+
+github "github_for_mac","1.0.2"
+github "sourcetree",	"1.0.0"
+ 
+github "dropbox",	"1.2.0"
+github "googledrive",	"1.0.2"
+
+github "heroku",	"2.0.0"
+
+github "java",		"1.4.0"
+github "eclipse",	"2.3.0"
+
+github	"flux",		"1.0.1"
+github	"slate",	"1.0.0"
+github 	"adium",	"1.3.0"
+github	"alfred",	"1.1.7"
+github  "evernote",	"2.0.5"
+github 	"skitch",	"1.0.2"
+github 	"toggl",	"1.0.4"
+github 	"kindle",	"1.0.1"
