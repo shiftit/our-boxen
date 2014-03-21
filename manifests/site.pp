@@ -86,4 +86,30 @@ node default {
     ensure => link,
     target => $boxen::config::repodir
   }
+  
+  # shiftit modules
+  include emacs
+  include iterm2::dev
+  include zsh
+  
+  include virtualbox
+  include vagrant
+  
+  include chrome::beta
+  include firefox
+  
+  include skype
+  include hipchat
+  include screenhero
+
+  include github_for_mac
+  include sourcetree
+
+  include dropbox
+  include googledrive
+
+  include heroku
+
+  include java  	  
+  
 }
