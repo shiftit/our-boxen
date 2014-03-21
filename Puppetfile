@@ -58,7 +58,7 @@ github "xquartz",     "1.1.1"
 
 # dependencies
 github "osx",		"2.2.2"
-github "boxen",		"3.4.2"
+github "boxen"
 
 # modules
 github "emacs",		"1.1.0"
