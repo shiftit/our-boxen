@@ -77,11 +77,9 @@ github "screenhero",	"1.0.1"
 
 github "github_for_mac","1.0.2"
 github "sourcetree",	"1.0.0"
- 
+
 github "dropbox",	"1.2.0"
 github "googledrive",	"1.0.2"
-
-github "heroku",	"2.0.0"
 
 github "java",		"1.4.0"
 github "eclipse",	"2.3.0"
@@ -91,7 +89,6 @@ github "postgresapp", 	"1.0.0"
 github	"flux",		"1.0.1"
 github	"slate",	"1.0.0"
 github 	"adium",	"1.3.0"
-#github	"alfred",	"1.1.7" ## offending package not working - crashes boxen
 github  "evernote",	"2.0.5"
 github 	"skitch",	"1.0.2"
 github 	"toggl",	"1.0.4"

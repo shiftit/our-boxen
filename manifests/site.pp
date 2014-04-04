@@ -56,7 +56,7 @@ node default {
   include dnsmasq
   include git
   include hub
-  include nginx
+  #  include nginx
 
   # fail if FDE is not enabled
   if $::root_encrypted == 'no' {
@@ -86,18 +86,17 @@ node default {
     ensure => link,
     target => $boxen::config::repodir
   }
-  
+
   # shiftit modules
   include emacs
   include iterm2::dev
-  include zsh
-  
+
   include virtualbox
   include vagrant
-  
+
   include chrome::beta
   include firefox
-  
+
   include skype
   include hipchat
   include screenhero
@@ -108,7 +107,6 @@ node default {
   include dropbox
   include googledrive
 
-  include heroku
 
   include java  	  
 
